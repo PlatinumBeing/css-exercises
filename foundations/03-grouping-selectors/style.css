@@ -1,0 +1,15 @@
+.firstEle,
+.secondEle {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.firstEle {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.secondEle {
+    background-color: yellow;
+}

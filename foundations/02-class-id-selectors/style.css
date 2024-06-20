@@ -1,0 +1,21 @@
+.oddEle {  
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+
+}
+
+#secondEle {
+    color: blue;
+    font-size: 36px;
+}
+
+#thirdEle {
+    color: blue;
+    font-size: 24px;
+}
+
+#fourthEle {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
